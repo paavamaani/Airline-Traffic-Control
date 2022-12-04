@@ -1,0 +1,33 @@
+.arrival-departure-flights h1 {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 0;
+}
+
+.arrival-departure-flights-list {
+    list-style: none;
+    padding: 0;
+}
+
+.arrival-departure-flights {
+    padding: 0.5rem;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 12px;
+    margin: 0.5% auto;
+    width: 48%;
+}
+
+.arrival-departure-flight {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+    margin: 1rem 0;
+    background-color: #4b4b4b;
+}
+  
+.arrival-departure-flight h2 {
+    font-size: 1rem;
+    margin: 0 1rem;
+    color: #ffffff;
+}

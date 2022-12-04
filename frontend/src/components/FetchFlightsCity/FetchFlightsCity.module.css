@@ -1,0 +1,7 @@
+.carousel-background {
+    background-image: url('../../images/baggage.webp');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100vh;
+    position: relative;
+}

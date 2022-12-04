@@ -1,0 +1,11 @@
+.arrivals-departures-wrapper {
+    background-image: url('../../images/user.webp');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100vh;
+}
+
+.arrivals-departures {
+    display: flex;
+    flex-wrap: wrap;
+}
