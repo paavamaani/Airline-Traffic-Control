@@ -1,37 +1,4 @@
-# CMPE202-Air-Traffic-Control
-
-[Link to Sprint Report](https://docs.google.com/spreadsheets/d/1mvWnd-HJT9EoHF7PwS7zOvFDFoP84AuZNkjxf5H9ZCM/edit?usp=sharing) 
-
-[Link to Sprint Journal](https://docs.google.com/spreadsheets/d/1niEOolo8XTF8XMcAborXSGIpgGHB62KjuzCzXDKLGhE/edit?usp=sharing)
-
-[Link to Task Board](https://github.com/orgs/gopinathsjsu/projects/65)
-
-[Deployed Application link](http://cmpe-202-421583512.us-east-1.elb.amazonaws.com:3000/home)
-
-## Team Members:
-| Project Members | GitHub-Profile-Link | 
-| ----- | ----- |
-| Paavamaani Manchala | https://github.com/paavamaani |
-| Deeksha Spoorthi Sammidi | https://github.com/sdsr1704 |
-| Arun Garlapati | https://github.com/arun-garlapati |
-| Venkatesh Kankanala | https://github.com/Venkatesh-Kankanala |
-
-## Scrum Meeting Days - Tuesday, Thursday, Saturday
-## 2 week sprint
-
-# XP Values
-
-- Communication
-Inherently, software development is a team sport that relies on communication to communicate information from one team member to the rest of the team. XP emphasizes the significance of good communication - face-to-face conversation using a white board or other drawing method.
-- Simplicity
-"What is the simplest thing that will work?" is the definition of simplicity. The goal is to reduce waste and accomplish just what is absolutely necessary, such as keeping the system architecture as basic as possible so that it is easier to maintain, support, and change. Simplicity also implies addressing only the requirements that you are aware of; do not attempt to forecast the future.
-- Feedback
-Teams can find areas for development and update their procedures by receiving continual feedback on their prior efforts. Simple design is also supported by feedback. Your team creates something, receives input on its design and implementation, and then iterates on the product.
-- Respect
-Members of your team must respect one another in order to communicate, offer and accept feedback that values your connection, and collaborate to discover simple designs and solutions.
-
-Together, we followed the above XP values during entire course of Project.
-
+# Air-Traffic-Control
 
 # Technology stack
 
@@ -102,10 +69,6 @@ MERN employs only open-source technology. This feature allows a developer to use
 - should be able to disable/enable the gates
 - should be able to assign baggage carousels 
 - Baggage carousels could be assigned to multiple flights in case of same airline, if not should not display the occupied ones in the dropdown.
-
-# UI Wireframes
-
-# Diagrams
 
 # Steps to run the application
 1. git clone [repo](https://github.com/gopinathsjsu/team-project-team-thirteen.git)
