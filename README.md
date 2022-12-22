@@ -75,22 +75,6 @@ Because MERN Stack uses only one language throughout, Javascript, a firm will be
 - Open Source and Free
 MERN employs only open-source technology. This feature allows a developer to use open sources to find answers to challenges that may emerge during development.
 
-# Contribution
-Contribution in terms of component ownership
-### Paavamaani Manchala 
-- Enable/Disable gates
-- Random gate assignment
-### Deeksha Spoorthi Sammidi 
-- Assign baggage carousel
-- Arrival & Departures
-### Arun Garlapati
-- Add flight
-- Edit flight
-- Admin login
-### Venkatesh Kankanala
-- Home page & Authentication
-- sign up
-
 # Feature set
 
 ### Homepage
