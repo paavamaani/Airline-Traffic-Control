@@ -128,16 +128,3 @@ Contribution in terms of component ownership
 2. Install dependencies for both frontend and backend npm install ```npm install```
 3. Run backend - ```npm start``` 
    Run frontend - ```npm start```
-   
-# Application screenshots
-## Homepage
-
-## Signin
-
-## User view
-
-## Airport employee
-
-## Airline employee
-
-# Deployement screenshots
