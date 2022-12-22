@@ -71,7 +71,7 @@ MERN employs only open-source technology. This feature allows a developer to use
 - Baggage carousels could be assigned to multiple flights in case of same airline, if not should not display the occupied ones in the dropdown.
 
 # Steps to run the application
-1. git clone [repo](https://github.com/gopinathsjsu/team-project-team-thirteen.git)
+1. git clone [repo](https://github.com/paavamaani/Airline-Traffic-Control.git)
 2. Install dependencies for both frontend and backend npm install ```npm install```
 3. Run backend - ```npm start``` 
    Run frontend - ```npm start```
