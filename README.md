@@ -1,6 +1,6 @@
 # Air-Traffic-Control
 
-<img src="https://media.tenor.com/_OtyZNwfShYAAAAM/instagram-logo.gif">
+<img src="https://cdn.dribbble.com/users/330915/screenshots/6170423/1_travel_anim.gif">
 
 ## Technology stack
 <p align="left"> 
