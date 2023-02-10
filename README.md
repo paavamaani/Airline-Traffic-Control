@@ -39,6 +39,7 @@
 - Because Mongo DB is schemaless, we do not define the schema at the outset.
 
 ### Why MERN Stack - Performance and User Interface Rendering
+
 - React JS is the best when it comes to UI layer abstraction. Because React is only a library, you may build the application and structure the code anyway you like. As a consequence, in terms of UI rendering and performance, it exceeds Angular.
 
 - Cost-effective
@@ -49,31 +50,79 @@ MERN employs only open-source technology. This feature allows a developer to use
 
 # Feature set
 
+## Use Case Diagram
+
+![UseCase Diagram (1)](https://i.imgur.com/xYPJDbM.jpg)
+
+## Architecture Diagram
+
+![Screen Shot 2022-12-01 at 11.50.50 AM](https://i.imgur.com/kj1Upix.png)
+
+## Component Diagram
+
+![sprintersComponent](https://i.imgur.com/onIKBLV.jpg)
+
+## Deployment Diagram
+
+![Deployment](https://i.imgur.com/A4qXnH5.png)
+
+## DB schema
+
+![Screen Shot 2022-12-01 at 1.20.13 PM](https://i.imgur.com/dk9zDgC.png)
+
+# Feature set
+
 ### Homepage
+
 - should display the homepage with options to either enter into userview or employee login
 - should display login page upon clicking login button
 - should display page to choose arrivals/departures from userview
+
 ### User view - Arrivals
+
 - should display arrival flights with gate numbers and baggage carousel
+
 ### User view - Departures
+
 - should display departure flights with gate numbers
-### Signin - employee (airline & airport)
+
+### Signin - emplyee (airline&airport)
+
 - employee upon filling details should be able to sign in
 - based on role employees are redirected either to airline or airport
 - should display error in case of wrong credentials
-### Admin 
+
+### Admin
+
 - should be able to login successfully
 - should be able to add employees
 - should display error in case of wrong credentials
+
 ### Airline Employee
+
 - Should be able to add the flight
 - Should be able to edit flight details
 - upon adding flights, "GATE" should be randomly assigned without any conflicts
+
 ### Airport Employee
+
 - Should display the disabled and enabled gates in the terminals
 - should be able to disable/enable the gates
-- should be able to assign baggage carousels 
+- should be able to assign baggage carousels
 - Baggage carousels could be assigned to multiple flights in case of same airline, if not should not display the occupied ones in the dropdown.
+
+## UI Wireframes
+
+![UserView](https://i.imgur.com/Raegfvo.png)
+![SignIn](https://i.imgur.com/a1V9aTM.png)
+![HomePage](https://i.imgur.com/uqmk24z.png)
+![flightdepartures](https://i.imgur.com/R9XaR57.png)
+![flight arrival](https://i.imgur.com/s62Omo5.png)
+![EnableDisableGates.drawio](https://i.imgur.com/mzZSo9W.png)
+![BaggageCarousel](https://i.imgur.com/nHZVZLJ.png)
+![AirportEmployeeDashboard](https://i.imgur.com/Bz8It97.png)
+![AirlineEmployeeDashboard](https://i.imgur.com/OVCxMDP.png)
+![addFlight](https://i.imgur.com/iQDN44W.png)
 
 # Steps to run the application
 1. git clone [repo](https://github.com/paavamaani/Airline-Traffic-Control.git)
