@@ -88,7 +88,7 @@ MERN employs only open-source technology. This feature allows a developer to use
 
 - should display departure flights with gate numbers
 
-### Signin - emplyee (airline&airport)
+### Signin - employee (airline & airport)
 
 - employee upon filling details should be able to sign in
 - based on role employees are redirected either to airline or airport
