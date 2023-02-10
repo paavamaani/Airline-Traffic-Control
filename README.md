@@ -7,24 +7,24 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 </p>
 
-## Frontend
+### Frontend
 
 - ReactJs
 
-## Backend
+### Backend
 
 - NodeJs
 - ExpressJS
 
-## Database
+### Database
 
 - MongoDb
 
-## Deployment
+### Deployment
 
 - AWS EC2
 
-# Design Choices:
+## Design Choices
 
 ### Why NoSQL in a database?
 
@@ -48,29 +48,29 @@ Because MERN Stack uses only one language throughout, Javascript, a firm will be
 - Open Source and Free
 MERN employs only open-source technology. This feature allows a developer to use open sources to find answers to challenges that may emerge during development.
 
-# Feature set
+## Feature set
 
-## Use Case Diagram
+### Use Case Diagram
 
 ![UseCase Diagram (1)](https://i.imgur.com/xYPJDbM.jpg)
 
-## Architecture Diagram
+### Architecture Diagram
 
 ![Screen Shot 2022-12-01 at 11.50.50 AM](https://i.imgur.com/kj1Upix.png)
 
-## Component Diagram
+### Component Diagram
 
 ![sprintersComponent](https://i.imgur.com/onIKBLV.jpg)
 
-## Deployment Diagram
+### Deployment Diagram
 
 ![Deployment](https://i.imgur.com/A4qXnH5.png)
 
-## DB schema
+### DB schema
 
 ![Screen Shot 2022-12-01 at 1.20.13 PM](https://i.imgur.com/dk9zDgC.png)
 
-# Feature set
+## Feature set
 
 ### Homepage
 
@@ -124,41 +124,42 @@ MERN employs only open-source technology. This feature allows a developer to use
 ![AirlineEmployeeDashboard](https://i.imgur.com/OVCxMDP.png)
 ![addFlight](https://i.imgur.com/iQDN44W.png)
 
-# Steps to run the application
+## Steps to run the application
+
 1. git clone [repo](https://github.com/paavamaani/Airline-Traffic-Control.git)
 2. Install dependencies for both frontend and backend npm install ```npm install```
 3. Run backend - ```npm start``` 
    Run frontend - ```npm start```
 
-# Application screenshots
+## Application screenshots
 
-## Homepage
+### Homepage
 
 <img width="1427" alt="Screen Shot 2022-11-30 at 6 00 06 PM" src="https://user-images.githubusercontent.com/31122229/204947881-399e1194-fda7-4b73-9bbc-0048914ad311.png">
 
-## Signin
+### Signin
 
 <img width="1439" alt="Screen Shot 2022-11-30 at 5 48 25 PM" src="https://user-images.githubusercontent.com/31122229/204946476-94c06793-e2e8-48d8-a7a5-2789e09a876f.png">
 
-## User view
+### User view
 
 <img width="1440" alt="Screen Shot 2022-11-30 at 5 46 52 PM" src="https://user-images.githubusercontent.com/31122229/204946258-834f91bd-c5a4-4bf3-b3b5-7c5fc801a751.png">
 <img width="1436" alt="Screen Shot 2022-11-30 at 5 47 27 PM" src="https://user-images.githubusercontent.com/31122229/204946343-d957d6ae-7840-47c3-9154-1445a7a708b7.png">
 <img width="1439" alt="Screen Shot 2022-11-30 at 5 48 09 PM" src="https://user-images.githubusercontent.com/31122229/204946426-d3798986-cb5d-4bac-82ff-dd53812cca8f.png">
 
-## Airport employee
+### Airport employee
 
 <img width="1418" alt="Screen Shot 2022-11-30 at 5 48 54 PM" src="https://user-images.githubusercontent.com/31122229/204946520-c48444e1-02e7-4477-9141-35af2453ba7c.png">
 <img width="1436" alt="Screen Shot 2022-11-30 at 5 49 07 PM" src="https://user-images.githubusercontent.com/31122229/204946541-2e6e2b93-6169-4dac-b8a5-9fe5bd83df50.png">
 <img width="1435" alt="Screen Shot 2022-11-30 at 5 55 34 PM" src="https://user-images.githubusercontent.com/31122229/204947300-4acaf2b7-f796-4dad-9888-a0643bde0271.png">
 
-## Airline employee
+### Airline employee
 
 <img width="1430" alt="Screen Shot 2022-11-30 at 5 59 41 PM" src="https://user-images.githubusercontent.com/31122229/204947823-1de02cdc-ed12-460e-95ba-e22d9d131839.png">
 
 <img width="1439" alt="Screen Shot 2022-11-30 at 5 57 20 PM" src="https://user-images.githubusercontent.com/31122229/204947515-ed629fdb-eed2-4428-bbf5-55aa4c1ac18a.png">
 
-## Deployement screenshots
+### Deployement screenshots
 
 ![Screen Shot 2022-12-01 at 4.18.41 PM](https://i.imgur.com/8OfHywx.png)
 
